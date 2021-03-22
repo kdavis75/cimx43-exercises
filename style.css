@@ -17,9 +17,17 @@ body{
 .words{
   display: grid;
    grid-template-columns: 1fr;
-   
+
 }
 
 p{
   text-align: center;
+}
+
+a:hover{
+  color: black;
+}
+
+a{
+  color: white;
 }
